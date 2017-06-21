@@ -19,7 +19,8 @@ text_file.write("Date, Time, Status, Ping Time (ms), Remarks \n")
 
 
 for i in range(0,TOTAL_ITERATIONS):
-    print (['Checked ',str(i),' time'])
+# while True:       # Uncomment this line, and comment above line in case, it is required to run it for eternity.    
+
     
     # code goes here
     time.sleep(CHECK_INTERVAL)
