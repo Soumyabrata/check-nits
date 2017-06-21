@@ -1,0 +1,11 @@
+Date, Time, Status, Ping Time (ms), Remarks 
+06/21/17,16:31:29,OK,0.2287,Website is working fine
+06/21/17,16:31:35,OK,0.2691,Website is working fine
+06/21/17,16:31:41,OK,0.2299,Website is working fine
+06/21/17,16:31:47,OK,0.2285,Website is working fine
+06/21/17,16:31:52,OK,0.2467,Website is working fine
+06/21/17,16:31:58,OK,0.2315,Website is working fine
+06/21/17,16:32:04,OK,0.2296,Website is working fine
+06/21/17,16:32:10,OK,0.2332,Website is working fine
+06/21/17,16:32:15,OK,0.3168,Website is working fine
+06/21/17,16:32:21,OK,0.228,Website is working fine
